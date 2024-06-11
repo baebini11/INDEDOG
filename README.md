@@ -1,3 +1,6 @@
+실제 프로젝트 관리 및 구축링크 
+-> https://github.com/woongveloper/IndeDog
+
 # 인디독 (INDEDOG)
 
 독립영화 데이터베이스 / 커뮤니티
